@@ -19,10 +19,9 @@ webui_model_dir = webui_dir + "/models/Stable-diffusion/"
 # モデルのID
 model_ids = [
     {
-        "repo_id": "hakurei/waifu-diffusion-v1-4",
-        "model_path": "wd-1-4-anime_e1.ckpt",
-        "config_file_path": "wd-1-4-anime_e1.yaml",
-    },
+        "repo_id": "swl-models/chilloutmix",
+        "model_path": "Chilloutmix.safetensors",
+    }   
 ]
 
 

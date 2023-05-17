@@ -10,7 +10,7 @@ volume = modal.SharedVolume().persist(volume_key)
 
 webui_dir = "/content/stable-diffusion-webui/"
 remote_outputs_dir = 'outputs'
-output_dir = "./outputs"
+output_dir = "~/Downloads/outputs"
 
 
 @stub.function(
